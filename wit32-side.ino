@@ -9,10 +9,10 @@
 #include <WebServer.h>
 
 const char* sta_ssid = "Kong_Wifi";       // your home WiFi (for internet)
-const char* sta_pass = "0651166902z";
+const char* sta_pass = "-";
 
 const char* ap_ssid = "FIRE_ROBOT";      // local AP for robot control
-const char* ap_pass = "12345678";
+const char* ap_pass = "-";
 
 WebServer server(80);
 
