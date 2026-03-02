@@ -10,9 +10,9 @@
 
 // ================= CONFIGURATION =================
 const char* ssid = "Kong_Wifi";
-const char* password = "0651166902z";
-const char* discordWebhookUrl = "https://discord.com/api/webhooks/1462461338302546014/1SP7qRd3Q4aKRl5Ql9yjapL_TAA0JO8D1eib5AG1IgSg9MsyJtm2_mzTFYB-lLq1acdx"; 
-const char* googleApiKey = "AIzaSyDBRn26Zx2CLXtLI-0MsmPs1poAwEJvROQ";
+const char* password = "-";
+const char* discordWebhookUrl = "https://discord.com/api/webhooks/-"; 
+const char* googleApiKey = "-";
 
 const int THRESHOLD = 600;  
 const int HYSTERESIS = 100;
